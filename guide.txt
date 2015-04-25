@@ -1,9 +1,14 @@
 >inicio
 	(texto - principio)
 	(texto - 1º eu crio minha própria vida)
+		FEDORA
 	(texto - 2º entrar no jogo pra vencer)
-	(texto - compromisso)
+
+	(texto - 3º compromisso)
+		RODADA DE NEGÓCIOS
+>pausa
 	(texto - 4º pensar grande)
+		EDITORZINHO, GANHAR MILÃO, GANHAR NA LOTERIA
 	(texto - 5º controlar o medo)
 		BILL GATES
 	(texto - 6º admirar os vencedores)
@@ -13,6 +18,7 @@
 	(texto - 8º gostar de se promover)
 		NÃO MINTA PRA UMA PESSOA! NUNCA! JAMAIS!
 >pausa
+>sorrir
 	(texto - 9º ser maior que o problema)
 		EM FRENTE! PENSE EM SOLUÇÕES!
 	(texto - 10º excelentes recebedores)
@@ -23,9 +29,17 @@
 		QUEM QUER TER UM AUMENTO?
 		SENTAR NOS PUFFS
 	(texto - 12º realidade por abundancia)
+		CARROS USADOS, VENDEDORES PIRADOS
 	(texto - 13º patrimonio liquido)
+		SIMPLICIDIDADE, DUAL CORE MELHOR QUE i7
+>pausa
 	(texto - 14º aprimorar sempre)
+		USUÁRIO CAPITÃO AMÉRICA
 	(texto - 15º dinheiro trabalhando)
+		PRO-LABORE, QUANTOS % DA SUA EMPRESA É MINHA?
+>animar
+>tá terminando
 	(texto - 16º administrar rendimentos)
+		ALGUÉM SABE ADMINISTAR O QUE GANHA?
 	(texto - 17º focalizar oportunidades)
 >fim
