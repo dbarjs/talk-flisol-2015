@@ -1,0 +1,31 @@
+>inicio
+	(texto - principio)
+	(texto - 1º eu crio minha própria vida)
+	(texto - 2º entrar no jogo pra vencer)
+	(texto - compromisso)
+	(texto - 4º pensar grande)
+	(texto - 5º controlar o medo)
+		BILL GATES
+	(texto - 6º admirar os vencedores)
+		BILL GATES
+	(texto - 7º companhia de positivos)
+		DESAFIO
+	(texto - 8º gostar de se promover)
+		NÃO MINTA PRA UMA PESSOA! NUNCA! JAMAIS!
+>pausa
+	(texto - 9º ser maior que o problema)
+		EM FRENTE! PENSE EM SOLUÇÕES!
+	(texto - 10º excelentes recebedores)
+		CARA, OBRIGADO POR ISSO QUE TU FEZ!
+		SE TÁ MENOSPRESANDO ELA!
+	(texto - 11º remuneração por resultado)
+		...TODO MUNDO TÁ INTERESSADO
+		QUEM QUER TER UM AUMENTO?
+		SENTAR NOS PUFFS
+	(texto - 12º realidade por abundancia)
+	(texto - 13º patrimonio liquido)
+	(texto - 14º aprimorar sempre)
+	(texto - 15º dinheiro trabalhando)
+	(texto - 16º administrar rendimentos)
+	(texto - 17º focalizar oportunidades)
+>fim

@@ -1,57 +1,132 @@
-show - animação
-	slide
-		algo vazio
-	slide
-		obrigado com cor legal
-show - master
-	slide (titulo da palestra)
-		intro
-	slide (foto - nerd)
-		nerds
-		enrola sobre computadores
-	slide
-		o que as pessoas imaginam quando um computador é citado
-		fala sobre passado de computadores
-		pergunta qual é o primeiro computador
-	slide (foto - abaco)
-		fala o que é o abaco 
-		como funcionava o abaco
-	slide (foto - calculadora)
-		conta a história do abaco até a calculadora
-		fala como a calculadora é uma coisa incrívelmente foda
-	slide (foto - woz)
-		cita que na história da computação muitos são os grandes nomes 
-		apresenta história sobre o woz
-		fala sobre seu trabalho na HP
-		conta história da sua conversa com o seu chefe
-		deu errado e a história poderia acabar aqui
-		mas não acabou
-	slide (foto - woz e jobs)
-		apresenta steve jobs 
-		conta a históra de jobs no vale do silicio
-	slide (foto - apple ii)
-		cita os grandes que participaram disso (gates)
-	slide (foto - iphone)
-		mostra onde chegaram os computadores apresentando um smartphone
-		mostra grandes lideres e marcas que eles são donos
-	slide
-		conta história de como uma empresa inicia
-	slide
-		dificuldades e soluções iniciais de empresas (foto - jim papeis)
-	slide
-		primeiro computador da empresa (foto - jim computador)
-	slide
-		como funciona um programa ERP (foto - erp)
-		pra que servem as informaçãoes
-		segurança de informações
-	slide
-		explora a importancia de conhecer bem o excel e como ele salva empresas (foto - excel)
-	slide
-		conta sobre a minha história com BI e explica o que é
-	slide
-		fala sobre futuro da computação e soluções
-	slide
-		como investir na area
-	slide
+$titulo = 'Como fazer dinheiro com software livre'
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-		obrigado com cor legal
+_slide (texto - $titulo)
+	piada sobre desenvolver e tirar foto
+_slide
+	(texto - principios)
+	qualquer coisa que você faça, você necessita de principios pra fazer a ideia
+_slide
+	(texto - 1º eu crio minha própria vida)
+	falar sobre ser certificado fedora (??)
+	fala que você tem que correr atrás
+	comenta 'eu não vou ganhar dinheir com software livre nunca'
+	falar sobre não ouvir o que as pessoas te dizem
+_slide
+	(texto - 2º entrar no jogo pra vencer)
+	falar sobre 'como tá aquele teu projeto'
+	afirmar - 'você entra pra vencer!'
+_slide
+	(texto - 3º compromisso)
+	'algo meio complicado pra todo mundo'
+	'tenho um compromisso tenso e vou sair com os amigos'
+	citar exemplo que meu tio me perguntava se não via a hora quando estava trabalhando
+	tenha um projeto pra mostrar agora
+	'quem já foi em uma rodada de negócios'
+_slide
+	(texto - 4º pensar grande)
+	'há, eu vou fazer um editorzinho'
+	'vou fazer um projetinho pra ganhar milão' 'Não faça isso!'
+	perguntar se já sabem oq vão fazer com o dinheiro da loteria
+	isso serve pra quando você saber crescer quando ter oportunidade de crescimento
+_slide
+	(texto - 5º controlar o medo)
+	75% dos medos não acontecem
+	citar exemplo sobre querer ficar com alguém
+	citar que isso é ilusão
+	'CONTROLE O SEU MEDO!'
+	citar exemplo do bill gates ('controlar o medo')
+	'se tivesse medo, será que ele estaria onde está hoje?'
+_slide
+	(texto - 6º admirar os vencedores)
+	comentar sobre a citação de bill gates acima e falar que faço parte de projetos de software livre
+	'vocês tem que admirar quem dá certo!'
+	citar a falacia sobre 'só deu certo pq deu certo'
+_slide
+	(texto - 7º companhia de positivos)
+	desafio sobre não falar nada de ruim durante uma semana
+	'ver o copo meio cheio'
+	'evite contar coisas ruins sobre alguma pessoa'
+	citar exemplo sobre financiamento de corolla
+	citar exemplo sobre 'como vc tá? mais ou menos'
+	'converse com outras pessoas'
+	citar exemplo sobre ganhar algo porque conheceu alguém (um emprego, uma ideia)
+_slide
+	(texto - 8º gostar de se promover)
+	'-quem é você?', '-há.. meu nome é dudu e faço umas coisinhas'
+	'não minta sobre você pra uma pessoa!'
+_slide
+	(texto - 9º ser maior que o problema)
+	citar exemplo sobre ter uma divida pequena
+	'-tenho uma divida de 40 mil', '-só?'
+	'se você tem um problema, enfrente ele, seja maior que ele!'
+_slide
+	(texto - 10º excelentes recebedores)
+	citar exemplo de curriculo
+	'pra quem tá querendo aquilo é muito'
+	'você tá com um problema e chega na pessoa', 'aaaaah, isssae é besteira'
+	falar que quando fazer algo pra alguém e essa pessoa vier agradecer, diga 'obrigado'
+	'SEJA UM RECEBEDOR DE COISAS BOAS'
+_slide
+	(texto - 11º remuneração por resultado)
+	perguntar se alguém trabalha em empresa e tem um chefe
+	perguntar se alguém quer ter um aumento na semana que vem
+	60, 70 por cento terão um aumento
+	perguntar se alguém sabe como pedir um aumento
+	falar exemplo de ter uma boca nova em casa
+	responder a pergunta 'meu, o que que eu posso fazer pra você me dar um aumento aqui na empresa?'
+	citar exemplo sobre só precisar fazer o que está pedindo
+	citar exemplo sobre carregar caixas
+_slide
+	(texto - 12º realidade por abundancia)
+	'falar oq você realmente faz!'
+	citar exemplo sobre o vendedor querer vender sem nota
+	citar exemplo sobre o filme carros usados vendedores pirados
+_slide
+	(texto - 13º patrimonio liquido)
+	perguntar se alguém aplica dinheiro
+	citar exemplo de querer ter carro bom
+	citar exemplo de financiar a roda de 8 mil reais
+	citar exemplo de ter um dual core e não precisar de um i7
+_slide
+	(texto - 14º aprimorar sempre)
+	citar exemplo que estar nesta palestra é querer se aprimorar
+	'esteja ligado em novidades', 'não ficar parado'
+	citar exemplo do usuario capitão américa
+	perguntar qual o era em 2012 o sistema operacional mais usado no mundo
+	perguntar qual o é hoje o sistema operacional mais usado no mundo
+	citar exemplo que o windows phone brigava com o symbian
+_slide
+	(texto - 15º dinheiro trabalhando)
+	perguntar se alguém tem empresa ou é empresário
+	citar exemplo do pro-labore
+	citar exemplo de empresa fechando que vendeu o que tinha
+	citar exemplo de empresa de amigo que oferece ideia de empresa e você oferece o dinheiro pra ele pra ser o sócio
+	citar exemplo de empresa pra fazer pão de mel
+_slide
+	(texto - 16º administrar rendimentos)
+	citar método de controle de rendimentos:
+		10% diversão
+		10% longo prazo
+			'o que não é necessário pra sua vida'
+		10% instrução
+		50% necessidades basicas
+		10% doações
+			'quem é que gosta de dar dinheiro pra outra pessoa?'
+			'doações não servem pra dar o dineheiro pra outro cara, serve pra ser humilde'
+		10% liberdade
+			(investimentos)
+_slide
+	(texto - 17º focalizar oportunidades)
+	(software livre em si)
+	perguntar se alguém sabe definir o que é uma oportunidade
+	'se você sabe trabalhar com software livre, você pode trabalhar pra uma empresa que paga caro em software proprietario'
+	citar exemplo sobre o cara que pediu um real por nota fiscal
+	citar exemplo sobre dar curso pra alguém na empresa
+	'você tem que focalizar oporunidades'
+	'você sabe o que é necessário'
+_slide
+	(texto - 
+		software livre é a sua ferramenta
+		o seu modelo de negócio faz você crescer
+	)
+	citar exemplo sobre necessidade de CRM
